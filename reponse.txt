@@ -2,3 +2,4 @@
 2 - 
 3 - git add .
     git commit -m "premier commit"
+4 - git branch DEV
